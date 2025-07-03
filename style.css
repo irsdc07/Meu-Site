@@ -46,7 +46,7 @@ input[type="text"], [type="password"], [type="date"], [type="email"] {
     padding: 0.6rem;
     border: 2px solid #CCD595;
     outline: none;
-    border-radius: 7px;
+    border-radius: 5px;
     background-color: transparent;
 }
 
@@ -58,14 +58,14 @@ select {
     cursor: pointer;
     background-color: #CCD595;
     color: #331F19;
-    border-radius: 7px;
+    border-radius: 5px;
     border: none;
     outline: none;
 }
 
 img {
     width: 5rem;
-    border-radius: 7px;
+    border-radius: 5px;
 }
 
 table {
@@ -92,7 +92,7 @@ tfoot td {
 
 details {
     background-color: #CCD595;
-    border-radius: 7px;
+    border-radius: 5px;
     padding: 1rem;
 }
 
@@ -112,7 +112,7 @@ li {
 
 fieldset {
     border: 2px solid #CCD595;
-    border-radius: 7px;
+    border-radius: 5px;
     padding: 1rem;
 }
 
@@ -124,7 +124,7 @@ legend {
 textarea {
     background-color: transparent;
     outline: none;
-    border-radius: 7px;
+    border-radius: 5px;
     border: 2px solid #CCD595;
 }
 
@@ -133,7 +133,7 @@ button {
     border: none;
     padding: 0.5rem;
     color: #331F19;
-    border-radius: 7px;
+    border-radius: 5px;
     cursor: pointer;
 }
 
